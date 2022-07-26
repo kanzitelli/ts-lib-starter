@@ -1,7 +1,7 @@
 {
   "name": "ts-lib-starter",
   "version": "0.0.0",
-  "description": "Minimalistic TS lib starter",
+  "description": "TS lib starter with scripts to publish it to NPM and create GitHub Releases",
   "author": "Batyr <dev@batyr.io>",
   "homepage": "https://github.com/kanzitelli/ts-lib-starter",
   "bugs": "https://github.com/kanzitelli/ts-lib-starter/issues",
