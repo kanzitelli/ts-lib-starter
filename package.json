@@ -1,6 +1,6 @@
 {
   "name": "@kanzitelli/ts-lib-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "TS lib starter with scripts to publish it to NPM and create GitHub Releases",
   "author": "Batyr <dev@batyr.io>",
   "homepage": "https://github.com/kanzitelli/ts-lib-starter",
